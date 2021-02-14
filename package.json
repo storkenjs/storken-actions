@@ -1,11 +1,15 @@
 {
   "name": "storken-actions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "build": "babel src/storken-actions.js --ignore '**/*.test.js' --out-dir dist -d",
     "prepublishOnly": "yarn build"
   },
   "main": "dist/storken-actions.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/storkenjs/storken-actions"
+  },
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.12.16",
