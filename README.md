@@ -74,4 +74,4 @@ In this way, actions configuration of the state took a function that returns the
 Distributed under the [MIT](/LICENSE) License.
 
 ## Contribution
-You can contribute by fork this repository and making pull request.
+You can contribute by fork this repository and make pull request.
