@@ -24,7 +24,7 @@ export const StorkenActions = (storken) => {
     return obj
   }, {})
 
-  return actions
+  return storken.actions
 }
 
 export default StorkenActions
